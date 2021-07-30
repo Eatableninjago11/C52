@@ -1,0 +1,15 @@
+.header{
+    background-color: orangered;
+    display: flex;
+    justify-content: space-evenly;
+}
+.footer{
+    background-color: dodgerblue;
+    display: flex;
+    justify-content: space-evenly;
+}
+.grid{
+    background-color: crimson;
+    display: flex;
+    justify-content: space-around;
+}
